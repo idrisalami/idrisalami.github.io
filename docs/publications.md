@@ -1,6 +1,6 @@
 # Publications
 
-## Selected Projects & Writing
+## Selected Projects
 
 <div class="publication-card">
   <div class="publication-content">
@@ -21,6 +21,8 @@
     </div>
   </div>
 </div>
+
+## Writings
 
 <div class="publication-card">
   <div class="publication-content">
