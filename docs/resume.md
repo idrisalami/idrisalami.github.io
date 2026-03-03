@@ -69,7 +69,3 @@
   </div>
 
 </div>
-
-<p><strong>Honors:</strong> Fung Institute Excellence Scholarship (Berkeley), Moroccan Government Excellence Scholarship, Ministry of Health Merit Scholarship.</p>
-<p><strong>Languages:</strong> French (native), Arabic (native), English (fluent), Spanish (advanced).</p>
-<p><strong>Technical:</strong> Python, SQL, MATLAB, R.</p>
