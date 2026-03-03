@@ -5,26 +5,6 @@
 <div class="publication-card">
   <div class="publication-content">
     <h3 class="publication-title">
-      <a href="#" class="publication-link">
-        MemoGen: AI Tools for Venture Capital Workflows
-      </a>
-    </h3>
-    <div class="publication-venue">Startup Product Development</div>
-    <div class="publication-authors">Idris Houir Alami (Co-founder)</div>
-    <div class="publication-year">2025 – Present</div>
-    <div class="publication-description">
-      Developed VC-specific tooling for pitch-deck summarization, automated dataroom parsing, and investment memo generation. Secured an initial design partnership with P1 Ventures.
-    </div>
-    <div class="publication-tags">
-      <span class="tag tag-interpretability">LLM TOOLS</span>
-      <span class="tag tag-conference">VENTURE TECH</span>
-    </div>
-  </div>
-</div>
-
-<div class="publication-card">
-  <div class="publication-content">
-    <h3 class="publication-title">
       <a href="https://sport.le360.ma/esport/cinq-startups-marocaines-se-distinguent-au-sports-tech-nation-2024-a-munich_366E235YUFA47OJ4GIXGU2B6PU/" class="publication-link">
         TikiData: Machine Learning for Soccer Game-Phase Analytics
       </a>
@@ -42,12 +22,34 @@
   </div>
 </div>
 
-## Writings
-
 <div class="publication-card">
   <div class="publication-content">
     <h3 class="publication-title">
       <a href="#" class="publication-link">
+        MemoGen: AI Tools for Venture Capital Workflows
+      </a>
+    </h3>
+    <div class="publication-venue">Startup Product Development</div>
+    <div class="publication-authors">Idris Houir Alami (Co-founder)</div>
+    <div class="publication-year">2025 – Present</div>
+    <div class="publication-description">
+      Developed VC-specific tooling for pitch-deck summarization, automated dataroom parsing, and investment memo generation. Secured an initial design partnership with P1 Ventures.
+    </div>
+    <div class="publication-tags">
+      <span class="tag tag-interpretability">LLM TOOLS</span>
+      <span class="tag tag-conference">VENTURE TECH</span>
+    </div>
+  </div>
+</div>
+
+## Writings
+
+Click the writing title to read the full article.
+
+<div class="publication-card">
+  <div class="publication-content">
+    <h3 class="publication-title">
+      <a href="https://elaiapartners.substack.com/p/from-what-to-why-the-rise-of-causal" class="publication-link">
         Causal AI in Venture: Industry Article and Expert Synthesis
       </a>
     </h3>
