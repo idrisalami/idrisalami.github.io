@@ -49,17 +49,6 @@
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">MemoGen</span>
-      <span class="timeline-role">Co-founder</span>
-      <span class="timeline-dates">Jun 2025 – <strong class="text-accent">Present</strong></span>
-    </div>
-    <div class="timeline-meta">Remote</div>
-    <div class="timeline-desc">Building AI-powered tools for venture capital workflows, including pitch-deck summarization, dataroom parsing from links, and automated memo generation. Secured an initial design partnership with P1 Ventures.</div>
-  </div>
-
-  <div class="timeline-item">
-    <span class="timeline-dot"></span>
-    <div class="timeline-header">
       <span class="timeline-org">TikiData</span>
       <span class="timeline-role">Co-founder</span>
       <span class="timeline-dates">Apr 2023 – <strong class="text-accent">Present</strong></span>
