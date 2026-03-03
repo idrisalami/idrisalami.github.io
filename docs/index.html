@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Idris Houir Alami - Portfolio">
+  <meta name="author" content="Idris Houir Alami">
+  <title>Idris Houir Alami - Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script>
+    (function() {
+      try {
+        var saved = localStorage.getItem('theme');
+        var theme = saved === 'dark' || saved === 'light' ? saved : 'light';
+        document.documentElement.setAttribute('data-theme', theme);
+      } catch (e) {
+        document.documentElement.setAttribute('data-theme', 'light');
+      }
+    })();
+  </script>
+</head>
+<body class="antialiased mx-auto min-h-screen max-w-3xl px-4 sm:px-8 flex flex-col font-mono">
+
+  <!-- Skip to content link for accessibility -->
+  <a href="#about" class="sr-only focus:not-sr-only">Skip to content</a>
+
+  <!-- Header -->
+  <header id="main-header" class="group relative" role="banner">
+    <div class="header-grid">
+
+      <!-- Logo -->
+      <div class="header-logo">
+        <a href="#">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 40" style="height:3.5rem;width:2.1rem;" aria-label="Logo">
+            <path d="M4 2 L12 2 Q20 2 20 10 Q20 16 14 18 Q20 20 20 26 Q20 38 12 38 L4 38 Z M8 6 L8 16 L12 16 Q16 16 16 10 Q16 6 12 6 Z M8 22 L8 34 L12 34 Q16 34 16 28 Q16 22 12 22 Z" fill="currentColor"/>
+          </svg>
+        </a>
+      </div>
+
+      <!-- Title -->
+      <div class="header-title">
+        <span class="text-xl font-bold">Idris Houir Alami</span>
+      </div>
+
+      <!-- Navigation -->
+      <nav class="header-nav" id="navigation-menu" aria-label="Main navigation">
+        <div class="mobile-nav-menu">
+          <a href="#about">About</a>
+          <a href="#publications">Publications</a>
+          <a href="#blog">Blog</a>
+          <a href="#resume">Résumé</a>
+        </div>
+      </nav>
+
+      <!-- Controls -->
+      <div class="header-controls">
+        <!-- Theme toggle -->
+        <button id="theme-toggle" class="rounded-md p-2" aria-label="Switch to dark theme">
+          <svg class="sun-icon h-7 w-7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="5"></circle>
+            <line x1="12" y1="1" x2="12" y2="3"></line>
+            <line x1="12" y1="21" x2="12" y2="23"></line>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+            <line x1="1" y1="12" x2="3" y2="12"></line>
+            <line x1="21" y1="12" x2="23" y2="12"></line>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+          </svg>
+          <svg class="moon-icon h-7 w-7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+          </svg>
+        </button>
+
+        <!-- Mobile menu toggle -->
+        <button id="toggle-navigation-menu" class="sm:hidden rounded-md p-2" aria-expanded="false" aria-controls="navigation-menu" aria-label="Toggle navigation menu">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="3" y1="12" x2="21" y2="12"></line>
+            <line x1="3" y1="6" x2="21" y2="6"></line>
+            <line x1="3" y1="18" x2="21" y2="18"></line>
+          </svg>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+
+    </div>
+  </header>
+
+  <!-- Main content -->
+  <main class="flex-1">
+
+    <!-- About Section -->
+    <section id="about" class="mb-28">
+      <div class="prose">
+        <div id="about-content" class="loading-spinner">
+          Loading about content...
+        </div>
+      </div>
+    </section>
+
+    <!-- Publications Section -->
+    <section id="publications" class="mb-28">
+      <div class="prose">
+        <div id="publications-content" class="loading-spinner">
+          Loading publications content...
+        </div>
+      </div>
+    </section>
+
+    <!-- Blog Section -->
+    <section id="blog" class="mb-28">
+      <div class="prose">
+        <div id="blog-content" class="loading-spinner">
+          Loading blog content...
+        </div>
+      </div>
+    </section>
+
+    <!-- Resume Section -->
+    <section id="resume" class="mb-28">
+      <div class="prose">
+        <div id="resume-content" class="loading-spinner">
+          Loading resume content...
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="mt-auto py-8 text-center text-sm opacity-75">
+    <p>Built by Idris Houir Alami</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
