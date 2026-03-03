@@ -5,7 +5,7 @@
 <div class="publication-card">
   <div class="publication-content">
     <h3 class="publication-title">
-      <a href="#" class="publication-link">
+      <a href="https://sport.le360.ma/esport/cinq-startups-marocaines-se-distinguent-au-sports-tech-nation-2024-a-munich_366E235YUFA47OJ4GIXGU2B6PU/" class="publication-link">
         TikiData: Machine Learning for Soccer Game-Phase Analytics
       </a>
     </h3>
