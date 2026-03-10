@@ -23,8 +23,8 @@
   </div>
 </div>
 
-I'm **Idris Houir Alami**, a graduate engineering student at **CentraleSupélec (Paris-Saclay University)** and incoming **M.Eng. candidate in Industrial Engineering and Operations Research at UC Berkeley**.
+I'm **Idris Houir Alami**, a graduate engineering student at **CentraleSupélec (Paris-Saclay University)** and currently a **Master of Engineering student in Industrial Engineering and Operations Research at UC Berkeley**.
 
-I work at the intersection of **machine learning, decision systems, and venture investing**. My recent experience includes building AI-driven tools for startup evaluation at Elaia VC and applying causal ML methods at Richemont.
+I work at the intersection of **machine learning, decision systems, and AI agents optimization & evaluation**. My recent experience includes building AI-driven tools for startup evaluation at Elaia VC and applying causal ML methods at Richemont.
 
-I also co-founded projects including **TikiData** (soccer analytics) and **MemoGen** (VC workflow automation). I enjoy turning data into practical tools that improve real-world decision-making.
+I also co-founded **TikiData** (soccer analytics). I enjoy turning data into practical tools that improve real-world decision-making.

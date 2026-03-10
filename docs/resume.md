@@ -7,7 +7,7 @@
     <div class="timeline-header">
       <span class="timeline-org">University of California, Berkeley</span>
       <span class="timeline-role">M.Eng. in Industrial Engineering and Operations Research (IEOR)</span>
-      <span class="timeline-dates">2025 – 2026</span>
+      <span class="timeline-dates">2025 – <strong class="text-accent">Present</strong></span>
     </div>
     <div class="timeline-meta">Berkeley, CA</div>
     <div class="timeline-desc">Relevant coursework: Deep Reinforcement Learning, Survival Analysis & Causal Inference, Stochastic Optimization for Machine Learning, Applied Stochastic Processes. Capstone project on AI agents evaluation frameworks.</div>
